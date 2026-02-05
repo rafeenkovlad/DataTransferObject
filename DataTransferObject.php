@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Workerman\Dto;
+namespace App\Dto;
 
 
 abstract class DataTransferObject
